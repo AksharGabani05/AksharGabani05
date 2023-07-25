@@ -8,10 +8,13 @@ Web Developer with Problem solving<br/>
 mindset and ability to perform well in<br/>
 collaboration..</span>
 
+<br/>
+<br/>
 
 
 
- <p><img align="right" width="350" height="270"  src='https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmQ0aHR0ZzVhbm44bWY1bmZienR3bGNuemY2ZHYwaGtmcTQ3ZmFoaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif' /></p>
+
+ <p><img src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif"></img></p>
 
 
 ``` react.js
