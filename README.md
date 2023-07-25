@@ -1,5 +1,4 @@
-
-<img src="[https://thumbs.gfycat.com/BetterFalseKid-max-1mb.gif](https://cdn.filestackcontent.com/efbSR18hT5uRKuo0zoMA)"></img>
+<img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/akshargabani1) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/akshar_gabani__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/akshar-gabani-149477253) 
