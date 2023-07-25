@@ -1,5 +1,5 @@
 
-<img align="center" src='' />
+<img align="center" src='https://media.licdn.com/dms/image/D4E03AQFAkiG_IZkfog/profile-displayphoto-shrink_100_100/0/1665497104466?e=1695254400&v=beta&t=5z_9cf6PzKLYeT_RAAK0gfc5wKDMnltWhAg5aBb9RmU' />
 
 
 <h1 align="center">Hi 👋, I'm Akshar Gabani</h1>
