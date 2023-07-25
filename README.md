@@ -1,4 +1,51 @@
-<img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
+
+<img align="center" src='' />
+
+
+<h1 align="center">Hi 👋, I'm Akshar Gabani</h1>
+<span align="center">An Aspiring and Self - front end devloper<br/>
+Web Developer with Problem solving<br/>
+mindset and ability to perform well in<br/>
+collaboration..</span>
+
+
+
+
+ <p><img align="right" width="350" height="270"  src='https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmQ0aHR0ZzVhbm44bWY1bmZienR3bGNuemY2ZHYwaGtmcTQ3ZmFoaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif' /></p>
+
+
+``` react.js
+
+import Web Developer from 'India';
+
+class Bio extends Web Developer {
+  name     = 'Akshar Gabani';
+  title    = 'Front End Devloper';
+  location = 'Surat, India';
+}
+
+Skills extends Web Developer {
+  languages  = ['html','css','boostrap','media query','tailwind','JavaScript'];
+}
+
+```
+
+```css
+
+
+ 
+- 🔭 I’m currently Student on ** Red & White Multimedia education**
+
+- 🌱 I’m currently learning ** Javascript **
+
+- 📝 I regularly write articles on [Medium](Medium)
+
+- 💬 Ask me about **HTML,CSS,JavaScript**
+
+
+- 📫 How to reach me **akshargabani942@gmail.com**
+
+  ```
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/akshargabani1) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/akshar_gabani__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/akshar-gabani-149477253) 
