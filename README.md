@@ -30,7 +30,7 @@ class Bio extends Web Developer {
 }
 
 Skills extends Web Developer {
-  languages  = ['html','css','boostrap','media query','tailwind','JavaScript'];
+  languages  = ['html','css','boostrap','media query','tailwind','JavaScript,React.js,Firebase'];
 }
 
 ```
@@ -41,11 +41,11 @@ Skills extends Web Developer {
  
 - 🔭 I’m currently Student on ** Red & White Multimedia education**
 
-- 🌱 I’m currently learning ** Javascript **
+- 🌱 I’m currently learning ** Firebase **
 
 - 📝 I regularly write articles on [Medium](Medium)
 
-- 💬 Ask me about **HTML,CSS,JavaScript**
+- 💬 Ask me about **HTML,CSS,JavaScript,react.js**
 
 
 - 📫 How to reach me **akshargabani942@gmail.com**
