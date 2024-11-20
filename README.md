@@ -1,13 +1,11 @@
 
-<img align="center" src='https://media.licdn.com/dms/image/D4E03AQFAkiG_IZkfog/profile-displayphoto-shrink_100_100/0/1665497104466?e=1695254400&v=beta&t=5z_9cf6PzKLYeT_RAAK0gfc5wKDMnltWhAg5aBb9RmU' />
+<img align="center" src='https://avatars.githubusercontent.com/u/130533647?s=400&u=32df58128cc4442492922e38dc17d96501693ac7&v=4' />
 
 
 <h1 align="center">Hi 👋, I'm Akshar Gabani</h1>
 
-<h3>My name is Akshar Gabani I'm a Front End Developer based in Surat☀. I describe myself as a
-                            passionate developer who loves coding, open source, and the web platform ❤. <br><br>
-                            Aside from my job, I like to create and contribute to open source projects. That helps me to
-                            learn a ton of new stuff, grow as a developer and support other open source projects.
+<h3>I'm Creative Director and front end web developer from surat working in freelance and client work. I enjoy turning complex problems into simple, beautiful and intuitive designs.
+My job is to build your website so that it is functional and user-friendly but at the same time attractive. Moreover, I add personal touch to your product and make sure that is eye-catching and easy to use. My aim is to bring across your message and identity in the most creative way. I created web design for many famous brand companies.
                         </h3>
 
 <br/>
@@ -41,7 +39,7 @@ Skills extends Web Developer {
  
 - 🔭 I’m currently Student on ** Red & White Multimedia education**
 
-- 🌱 I’m currently learning ** Firebase **
+- 🌱 I’m currently learning ** Next Js **
 
 - 📝 I regularly write articles on [Medium](Medium)
 
